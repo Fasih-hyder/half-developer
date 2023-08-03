@@ -1,3 +1,4 @@
+![logo](https://github.com/half-developer/pic/commits?author=half-developer)
 <h1 align="center">Hi 👋, I'm Fasih Hyder</h1>
 <h3 align="center">A passionate frontend developer from Kingri,Khairpur,Sindh,Pakistn</h3>
 
