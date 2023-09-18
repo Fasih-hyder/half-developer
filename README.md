@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/half-developer](https://github.com/half-developer)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap,React.**
+- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap,React.js,Next.js**
 
 - 📫 How to reach me **fasihhaider.xwave@gmail.com**
 
